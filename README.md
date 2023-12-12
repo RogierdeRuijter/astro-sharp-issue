@@ -1,17 +1,14 @@
 # Astro Starter Kit: Basics
 
+## Prerequisists
+
+Node: 18.19.0, pnpm: 8.10.0
+
 ## Installation
 
 `pnpm i`
 
 ### Error
 
-This produces an error `node_modules/.pnpm/sharp@0.32.6/node_modules/sharp: Running install script, failed in 6.8s (skipped as optional)`
+Installation failed with the following error: `fatal error: 'vips/vips8' file not found`
 
-## How to run
-
-`pnpm dev`
-
-### Error
-
-When requesting the index, the image isn't displayed.
